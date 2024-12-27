@@ -1,0 +1,532 @@
+@media screen and (max-width: 600px) {
+    .navbar-button-c {
+        display: none;
+    }
+
+    .compliant-side-bgi-overlay {
+        height: 350px;
+    }
+
+   
+    .pricing-theme {
+        padding-bottom: 40px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 776px) {
+    .main {
+        scroll-behavior: smooth;
+    }
+
+    .header-container {
+        padding: 0px 6px;
+    }
+
+    .navbar-contain {
+        display: none !important;
+    }
+
+    .navbar-logo-contain {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navbar-logo-contain .navbar-logo {
+        height: 70px;
+
+    }
+
+    .header-resposive {
+        display: block !important;
+    }
+
+    .header-row {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+
+    .hambar {
+        margin: 0px 20px;
+        border-radius: 5px;
+
+    }
+
+    .btn-ham {
+        border-style: none;
+        font-size: 30px;
+    }
+
+    .hambar i {
+        color: #111;
+    }
+
+
+    /*Hero section*/
+   
+    .hero-head-para {
+        font-size: 35px;
+        font-weight: 800;
+        color: #002C6B;
+        font-family: "Open Sans", Sans-serif;
+        line-height: 40px
+    }
+
+    .hero-side {
+        margin-bottom: 25px;
+    }
+
+    .hero-button {
+        margin-top: 20px;
+    }
+
+
+    /*Feautre*/
+    .feature-head h3 {
+        font-size: 25px;
+        text-align: center;
+        padding-bottom: 16px;
+    }
+
+    .features-para p {
+        font-size: 18px;
+        line-height: 30px;
+
+    }
+
+
+    /*Compliant*/
+
+    .compliant-side-1 {
+        margin: 0px 30px;
+    }
+
+    .compliant-side h3 {
+        font-size: 28px;
+    }
+
+    .laptop-working-img img {
+        border-radius: 12px;
+        z-index: 3;
+        width: 70%;
+        position: relative;
+        right: -95px;
+        bottom: 45px;
+    }
+    .compliant-side-bgi {
+        margin: 35px 0px;
+    }
+
+    /*Ranking Section*/
+    .ranking-container {
+        display: none;
+    }
+
+    .ranking-image-smd {
+        display: block !important;
+        padding: 15px 20px;
+        border-radius: 12px;
+    }
+    .ranking-section {
+        padding: 90px 0px 90px 0px;
+    }
+
+    .ranking-image-smd img {
+        border-radius: 12px;
+    }
+
+    /*Pricing Plan*/
+
+    
+
+
+
+
+    .single-pricing {
+        padding: 50px 45px;
+    }
+    .pricing {
+        display: flex;
+       
+    }
+    .pricing p {
+        position: relative;
+        left: 4px;
+        bottom: -20px;
+    }
+    .pricing-theme {
+        padding-bottom: 40px;
+    }
+
+
+    /*footer section responsive*/
+
+    .footer {
+        padding: 0px 30px;
+    }
+
+    .row-10 {
+        padding: 40px 0px;
+    }
+
+    .row-11 {
+        height: 1px;
+        background-color: #3c465c;
+    }
+
+    .footer-head-para p {
+        font-size: 19px;
+        font-weight: 700;
+    }
+
+    .row-12 {
+        padding: 50px 0px;
+    }
+
+    .row-12-sub {
+        margin: 0px 20px;
+    }
+
+    .footnav-col {
+        margin: 0px 0px 30px 0px;
+    }
+
+    .footer-head-para p {
+        letter-spacing: -0.64px;
+    }
+
+    .footnav {
+        position: relative;
+        left: 0px;
+    }
+
+    .footer-list a {
+        font-size: 13px;
+    }
+
+
+}
+
+@media screen and (min-width: 776px) and (max-width: 992px) {
+
+    body {
+        background-color: #00fbff
+    }
+
+    .header {
+        align-items: center;
+        justify-content: space-between;
+    }
+
+
+
+    .header-container {
+        padding: 0px 100px;
+    }
+
+    .navbar-contain {
+        display: none !important;
+    }
+
+    .header-resposive {
+        display: block !important;
+    }
+
+    .hambar {
+        margin: 0px 20px;
+        border-radius: 5px;
+
+    }
+
+    .btn-ham {
+        border-style: none;
+        font-size: 30px;
+    }
+
+    .hambar i {
+        color: #111;
+    }
+
+
+    .nav-item {
+        padding: 0px 20px !important;
+    }
+
+    .navbar-button {
+        padding: 9px 18px;
+    }
+
+
+    /*Hero section*/
+   
+
+    .hero-head-para {
+        font-size: 40px;
+    }
+
+    .hero-side-main {
+        padding-right: 5rem !important;
+        padding-left: 5rem !important;
+    }
+
+
+    .hero-side {
+        margin-bottom: 25px;
+    }
+
+    .hero-button {
+        margin-top: 20px;
+    }
+
+
+    /*Features*/
+    .feature-head h3 {
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .features-para p {
+        font-size: 18px;
+        line-height: 30px;
+
+    }
+
+    /*compliant*/
+    .compliant-side-1 {
+        margin: 0px 65px;
+    }
+
+    .compliant-side-bgi {
+        margin: 50px 0px 60px 0px;
+    }
+
+
+
+    /*Ranking Section*/
+    .ranking-container {
+        display: none;
+    }
+
+    .ranking-image-smd {
+        display: block !important;
+        padding: 0px 40px 20px;
+    }
+
+    .ranking-image-smd img {
+        border-radius: 12px;
+    }
+
+     /*Pricing Plan*/
+   
+     .pricing-theme h2 {
+        padding-bottom: 24px;
+    }
+    .pricing-theme p {
+        padding-bottom: 10px;
+    }
+
+    .pricing-theme {
+        padding-bottom: 40px;
+    }
+
+
+
+
+
+    /*footer section*/
+
+    .footnav {
+        position: relative;
+        left: 0px;
+    }
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+    body {
+        background-color: #8c00ff
+    }
+
+    .header {
+        justify-content: space-between;
+    }
+    
+
+
+    /*Hero Section*/
+    .hero-side-main {
+        padding: 0px 50px !important;
+    }
+
+    .footer {
+        padding: 0px 30px;
+    }
+
+
+    /*Features*/
+    .features-para {
+        padding: 16px 115px;
+    }
+
+    .compliant-side-1 {
+        margin: 0px 50px;
+    }
+
+    .compliant-side-bgi {
+        margin: 0px 0px 90px 0px;
+        
+    }
+
+     /*Pricing Plan*/
+
+     .pricing-theme {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contact-btn {
+        position: relative;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       padding-left: 15px;
+    }
+    
+    .contact-btn div {
+        display: inline-block;
+        position: absolute;
+        right: 0px;
+    }
+    
+
+     .single-pricing {
+        padding: 45px 30px;
+    }
+
+    .pricing-theme h2 {
+        text-align: right;
+        margin-right: 55px;
+    }
+
+}
+
+@media screen and (min-width:1200px) and (max-width: 1400px) {
+
+
+    body {
+        background-color: #ff0044;
+    }
+
+
+
+    .navbar-logo {
+        height: 105px;
+    }
+
+
+    /*Hero Section*/
+    .hero-side-main {
+        padding-left: 5rem !important;
+    }
+
+    /*Features*/
+    .features-para {
+        padding: 16px 115px;
+    }
+
+    .compliant-side-bgi {
+        margin: 0px 0px 80px 0px;
+        
+    }
+
+     /*Pricing Plan*/
+
+     .pricing-theme {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contact-btn {
+        position: relative;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+    
+    .contact-btn div {
+        display: inline-block;
+        position: absolute;
+        right: 0px;
+    }
+
+
+     .single-pricing {
+        padding: 45px 30px;
+    }
+
+    .footer {
+        padding: 0px 40px;
+    }
+
+    .pricing-theme h2 {
+        text-align: right;
+        margin-right: 55px;
+    }
+
+}
+
+@media screen and (min-width: 1400px) {
+  
+    .hero-side-main {
+        padding-left: 5rem !important;
+    }
+
+    /*Features*/
+    .features-para {
+        padding: 16px 115px;
+    }
+
+    .compliant-side-bgi {
+        margin: 0px 0px 90px 0px;
+        
+    }
+
+     /*Pricing Plan*/
+
+     .pricing-theme {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contact-btn {
+        position: relative;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+    
+    .contact-btn div {
+        display: inline-block;
+        position: absolute;
+        right: 0px;
+    }
+
+     .single-pricing {
+        padding: 45px 30px;
+    }
+
+    .pricing-theme h2 {
+        text-align: right;
+        margin-right: 55px;
+    }
+
+}
